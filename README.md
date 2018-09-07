@@ -11,6 +11,7 @@ https://hub.docker.com/r/suzukishunsuke/go-ci/
 * alpine 3.7
 * git
 * openssh
+* rsync
 * [hugo](https://gohugo.io/)
 
 ## License
