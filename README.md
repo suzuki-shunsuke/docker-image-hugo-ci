@@ -8,7 +8,7 @@ Docker image to build website created by hugo at ci
 
 https://hub.docker.com/r/suzukishunsuke/hugo-ci/
 
-* alpine 3.7
+* alpine
 * git
 * openssh
 * rsync
