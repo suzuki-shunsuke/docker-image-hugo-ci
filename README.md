@@ -9,9 +9,6 @@ Docker image to build website created by hugo at ci
 https://hub.docker.com/r/suzukishunsuke/hugo-ci/
 
 * alpine
-* git
-* openssh
-* rsync
 * [hugo](https://gohugo.io/)
 
 ## License
