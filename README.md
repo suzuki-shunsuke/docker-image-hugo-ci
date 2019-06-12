@@ -8,8 +8,8 @@ Docker image to build website created by hugo at ci
 
 https://hub.docker.com/r/suzukishunsuke/hugo-ci/
 
-* alpine
-* [hugo](https://gohugo.io/)
+* Alpine
+* [Hugo](https://gohugo.io/)
 
 ## License
 
